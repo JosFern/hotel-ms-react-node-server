@@ -1,2 +1,2 @@
 # hotel-ms-react-node
-little hotel management system
+little hotel management system on the server side
